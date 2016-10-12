@@ -10,8 +10,7 @@ przyrównać do ustawionych automatycznie zakresów dla trybu 1 i 2.
 Tryb 2 będzie uczył użytkownika wyszukania z 4 obrazków odpowiednika wyświetlonego, wylosowanego 
 angielskiego słówka. Jeden dobrze wybrany obrazek to 1 punkt. Grę w trybie 1 jak i 2 zawsze można 
 przerwać i powrócić do menu głównego aby m.in. właczyć tryb 3 :) czyli słowniczek. *Słownik będzie 
-uporządkowany tematycznie dla wygody nauki.
-* jak się wyrobię to to zrobię ;)
+uporządkowany tematycznie dla wygody nauki. * jak się wyrobię to to zrobię ;)
 
 Program będzie napisany w języku C++ przy użyciu biblioteki SFML (do wykonania graficznego 
 interfejsu użytkownika). Będę także używała SQL'a do zrobienia bazy danych , w której będę 
